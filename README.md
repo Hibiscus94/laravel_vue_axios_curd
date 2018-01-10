@@ -1,1 +1,2 @@
-# laravel_vue_axios_curd
+# ajax curd demo with laravel+vue+axios
+
